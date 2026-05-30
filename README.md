@@ -1,4 +1,4 @@
-# Job Bot
+# JobBot: An Autonomous Job Search AI Agent
 
 An automated job search pipeline that scrapes listings daily, scores them against your resume, generates tailored cover letters with Claude AI, and delivers a daily digest with your top matches via Telegram.
 
