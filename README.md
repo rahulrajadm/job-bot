@@ -98,7 +98,7 @@ Edit the search parameters in `scrapers/jobspy_scraper.py` — roles, locations,
 
 ## Built by
 
-**Rahul Raja Durai Murugan** — BS Biomedical Engineering, UT Austin · MS Data Science & AI, University of Houston (incoming)
+**Rahul Raja Durai Murugan** — BS Biomedical Engineering, UT Austin · MS Engineering Data Science & AI, University of Houston (incoming)
 
 [LinkedIn](https://linkedin.com/in/rahulrajadm) · [GitHub](https://github.com/rahulrajadm)
 
