@@ -2,6 +2,10 @@
 
 An automated job search pipeline that scrapes listings daily, scores them against your resume, generates tailored cover letters with Claude AI, and delivers your top matches via Telegram or WhatsApp.
 
+## Results
+
+First run scraped **655 jobs** across LinkedIn and Indeed, with match scores ranging from 0–95%. Top match scored 95% against resume. Average match score was 63%. Cover letters generated in under 10 seconds via Claude API.
+
 ## What it does
 
 1. **Scrapes** jobs from LinkedIn, Indeed, ZipRecruiter, and Handshake
