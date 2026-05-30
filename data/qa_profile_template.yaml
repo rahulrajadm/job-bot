@@ -1,0 +1,65 @@
+# Copy this file to qa_profile.yaml and fill in your details.
+# qa_profile.yaml is gitignored — it will not be committed.
+
+personal:
+  first_name: "Jane"
+  last_name: "Doe"
+  full_name: "Jane Doe"
+  email: "jane.doe@example.com"
+  phone: "+1 (555) 000-0000"
+  linkedin_url: "https://linkedin.com/in/janedoe"
+  city: "Austin"
+  state: "Texas"
+  state_abbr: "TX"
+  country: "United States"
+  zip: "78701"
+
+education:
+  level: "Bachelor of Science"
+  major: "Computer Science"
+  minor: "Mathematics"
+  university: "University of Texas at Austin"
+  university_short: "UT Austin"
+  gpa: "3.80"
+  graduation_date: "May 2026"
+
+work_authorization:
+  authorized: true
+  visa_type: "US Citizen"  # e.g. "US Citizen", "Green Card", "F-1 OPT", "H-1B"
+  requires_sponsorship: false
+
+salary:
+  min: 80000
+  max: 100000
+  preferred_range: "$80,000 – $100,000"
+
+availability:
+  start_date: "June 2026"
+  notice_period: "2 weeks"
+
+experience:
+  years_total: "1"
+  years_python: "3"
+  years_machine_learning: "2"
+
+skills: "Python, R, SQL, scikit-learn, pandas, machine learning, data visualization"
+
+languages: "English (Fluent)"
+
+certifications: "None"
+
+diversity:
+  gender: "Prefer not to say"
+  ethnicity: "Prefer not to say"
+  hispanic: "No"
+  veteran: "I am not a protected veteran"
+
+common_question_answers:
+  current_employer: "Your Current Employer"
+  current_title: "Your Current Title"
+  reason_leaving: "Seeking new challenges and growth opportunities."
+  career_goals: "I aim to apply data science and machine learning to solve meaningful real-world problems."
+  greatest_strength: "I learn quickly and translate research into practical solutions."
+  greatest_weakness: "I sometimes over-engineer solutions; I've learned to ship iteratively."
+  why_this_company: "I admire the company's work in [area] and see strong alignment with my skills in [skill]."
+  team_preference: "I thrive in collaborative environments while also being productive independently."

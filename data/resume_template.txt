@@ -1,0 +1,29 @@
+YOUR NAME
+your.email@example.com | +1 (555) 000-0000 | linkedin.com/in/yourprofile | github.com/yourusername
+City, State
+
+EDUCATION
+University Name — Degree, Major (Expected Month Year)
+GPA: X.XX | Relevant coursework: ...
+
+EXPERIENCE
+
+Job Title — Company Name (Month Year – Month Year)
+- Bullet point describing accomplishment with quantified impact
+- Bullet point describing accomplishment with quantified impact
+
+Job Title — Company Name (Month Year – Month Year)
+- Bullet point describing accomplishment with quantified impact
+
+PROJECTS
+
+Project Name
+- Brief description of what you built and the impact
+
+SKILLS
+Languages: Python, R, SQL, ...
+Libraries/Tools: scikit-learn, pandas, ...
+Other: ...
+
+LANGUAGES
+English (Fluent), ...

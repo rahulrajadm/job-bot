@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+applications/
+*.log
+data/resume.txt
+data/resume.pdf
+data/qa_profile.yaml

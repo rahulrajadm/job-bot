@@ -1,0 +1,14 @@
+anthropic
+supabase
+requests
+httpx
+beautifulsoup4
+lxml
+scikit-learn
+python-dotenv
+apscheduler
+flask
+python-jobspy
+gunicorn
+playwright
+pyyaml

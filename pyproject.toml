@@ -1,0 +1,20 @@
+[project]
+name = "job-bot"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic",
+    "supabase",
+    "requests",
+    "httpx",
+    "beautifulsoup4",
+    "lxml",
+    "scikit-learn",
+    "python-dotenv",
+    "flask",
+    "pyyaml",
+    "gunicorn",
+]
+
+[tool.vercel]
+entrypoint = "api.webhook:app"
