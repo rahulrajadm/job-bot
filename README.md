@@ -1,6 +1,6 @@
 # Job Bot
 
-An automated job search pipeline that scrapes listings daily, scores them against your resume, generates tailored cover letters with Claude AI, and delivers your top matches via Telegram or WhatsApp.
+An automated job search pipeline that scrapes listings daily, scores them against your resume, generates tailored cover letters with Claude AI, and delivers a daily digest with your top matches via Telegram.
 
 ## Results
 
